@@ -1,1 +1,7 @@
 dont-push.html
+
+# ignore file tertentu
+video/index.js 
+
+# ignore semua file js
+video/*js 
