@@ -4,4 +4,4 @@ dont-push.html
 video/index.js 
 
 # ignore semua file js
-video/*js 
+video/*.js 
